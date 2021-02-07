@@ -1,9 +1,9 @@
 from influxdb import DataFrameClient
-
+import os
 
 class InfluxClient:
     def __init__(self, database="db0", username="admin", password="admin"):
-        self.client = DataFrameClient(host="influxdb", port="8086", username=username, password=password)
+        self.client = DataFrameClient(host=os.environ["INFLUX_HOST"], port="8086", username=username, password=password)
         self.database = database
 
     @staticmethod
