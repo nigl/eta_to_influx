@@ -1,19 +1,11 @@
-version: '3.7'
+version: "3.7"
+
 services:
-  app:
-      build: .
-      environment:
-        - CLIENT_ID=6a145ad0-a194-4794-ad42-9f074ce9441f
-        - CLIENT_SECRET=GCrx~VgmsR_c-st690m0Aa4916.7-Gd1-6
-        - FLASK_APP=api.py
-        - FLASK_RUN_PORT=5000
-        - FLAKS_RUN_HOST=0.0.0.0
-      volumes:
-        - ./python:/app/python
-      working_dir: /app/python
-      privileged: true
-      stdin_open: true
-      tty: true
-      ports:
-      - 5000:5000
-      entrypoint: "flask run --host=0.0.0.0 --cert=adhoc"
+  eta2influx:
+    image: eta_to_influx:latest
+    environment:
+      - INFLUX_HOST='influxdb'
+      - ETA_URL=http://192.168.178.68:8080/user/var
+      - time_delay_seconds=60
+    stdin_open: true
+    tty: true

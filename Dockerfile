@@ -5,9 +5,9 @@ RUN apt-get update && apt-get install -y python3-dev python3-pip python3-pandas 
 
 WORKDIR /app
 # copy code
-COPY . /app/eta_to_influx
+#COPY . /app/eta_to_influx
 # alternatively use git clone
-#RUN git clone https://github.com/nigl/eta_to_influx.git
+RUN git clone https://github.com/nigl/eta_to_influx.git
 
 #set config for eta columns
 ENV ETA_VARIABLE_DICT=/app/eta_to_influx/eta_variable_dict.csv
