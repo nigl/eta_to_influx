@@ -1,0 +1,307 @@
+_Kachelo._Fremdwärme_Kessel abschalten bei;/120/10291/0/0/12384
+_Kachelo._Fremdwärme_Kessel;/120/10291/0/0/12161
+_Kachelo._Fremdwärme_Fremdwärme;/120/10291/0/0/12383
+_Kachelo._Ladepumpe_Anforderung;/120/10291/0/11088/2001
+_Kachelo._Ladepumpe_Fremdwärme;/120/10291/0/0/12383
+_Kachelo._Ladepumpe_Speichertemperatur;/120/10291/0/0/12491
+_Kachelo._Ladepumpe_Freigabe Temperatur;/120/10291/0/0/12100
+_Kachelo._Ladepumpe_Thermostat Differenz;/120/10291/0/0/12327
+_Solar_Zustand_Kollektor_Kollektor Min;/120/10221/0/0/12187
+_Solar_Zustand_Kollektor_Außentemperatur;/120/10221/0/0/12197
+_Solar_Zustand_Startfunktion_Frostschutz;/120/10221/0/0/12131
+_Solar_Zustand_Kollektorpumpe_Kollektor;/120/10221/0/0/12275
+_Solar_Zustand_Kollektorpumpe_Speicher 1 unten;/120/10221/0/0/12781
+_Solar_Zustand_Kollektorpumpe_Soll Differenz Kollektor;/120/10221/0/0/12186
+_Solar_Zustand_Schichtladeventil_Speicher 1 oben;/120/10221/0/0/12784
+_Solar_Zustand_Schichtladeventil_Speicher 1 oben Soll;/120/10221/0/0/12681
+_Solar_Zustand_aktueller Speicher;/120/10221/0/0/12185
+_Puffer_Puffer_Ladezustand;/120/10601/0/0/12528
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Puffer oben;/120/10601/0/0/13191
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Puffer unten;/120/10601/0/0/13192
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Puffer min;/120/10601/0/0/13195
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Starten nach zusätzlichen Kriterien_Extra laden_Zeitprogramm aktivieren?_Startzeitpunkt;/120/10601/0/0/13029
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Starten nach zusätzlichen Kriterien_Extra laden_Sofort laden;/120/10601/0/0/13025
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Starten nach zusätzlichen Kriterien_Extra laden_Puffer min Extra laden;/120/10601/0/0/13537
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Starten nach zusätzlichen Kriterien_Extra laden_Puffer aus Extra laden;/120/10601/0/0/13538
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Schaltzustand;/120/10601/12130/0/1109
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Temperatur;/120/10601/12130/0/1110
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Montag_Absenktemperatur;/120/10601/12130/0/1111
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Montag_Zeitfenster 1;/120/10601/12130/0/1082
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Montag_Zeitfenster 2;/120/10601/12130/0/1083
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Montag_Zeitfenster 3;/120/10601/12130/0/1084
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Dienstag_Absenktemperatur;/120/10601/12130/0/1112
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Dienstag_Zeitfenster 1;/120/10601/12130/0/1086
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Dienstag_Zeitfenster 2;/120/10601/12130/0/1087
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Dienstag_Zeitfenster 3;/120/10601/12130/0/1088
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Mittwoch_Absenktemperatur;/120/10601/12130/0/1113
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Mittwoch_Zeitfenster 1;/120/10601/12130/0/1090
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Mittwoch_Zeitfenster 2;/120/10601/12130/0/1091
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Mittwoch_Zeitfenster 3;/120/10601/12130/0/1092
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Donnerstag_Absenktemperatur;/120/10601/12130/0/1114
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Donnerstag_Zeitfenster 1;/120/10601/12130/0/1094
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Donnerstag_Zeitfenster 2;/120/10601/12130/0/1095
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Donnerstag_Zeitfenster 3;/120/10601/12130/0/1096
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Freitag_Absenktemperatur;/120/10601/12130/0/1115
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Freitag_Zeitfenster 1;/120/10601/12130/0/1098
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Freitag_Zeitfenster 2;/120/10601/12130/0/1099
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Freitag_Zeitfenster 3;/120/10601/12130/0/1100
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Samstag_Absenktemperatur;/120/10601/12130/0/1116
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Samstag_Zeitfenster 1;/120/10601/12130/0/1102
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Samstag_Zeitfenster 2;/120/10601/12130/0/1103
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Samstag_Zeitfenster 3;/120/10601/12130/0/1104
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Sonntag_Absenktemperatur;/120/10601/12130/0/1117
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Sonntag_Zeitfenster 1;/120/10601/12130/0/1106
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Sonntag_Zeitfenster 2;/120/10601/12130/0/1107
+_Puffer_Puffer_Erzeuger Kessel/Puffer_Ladezeiten_Sonntag_Zeitfenster 3;/120/10601/12130/0/1108
+_Puffer_Puffer_Erzeuger Solar_Ladestrategie Solar;/120/10601/0/0/13012
+_Puffer_Puffer_Erzeuger Solar_Puffer oben;/120/10601/0/0/13933
+_Puffer_Puffer_Erzeuger Solar_Puffer oben min Solar;/120/10601/0/0/12407
+_Puffer_Puffer_Erzeuger Solar_Puffer Soll Solar;/120/10601/0/0/12408
+_Puffer_Puffer_Erzeuger Solar_Priorität Oben;/120/10601/0/0/13260
+_Puffer_Puffer_Erzeuger Solar_Puffer mitte;/120/10601/0/0/13934
+_Puffer_Puffer_Erzeuger Solar_Puffer unten;/120/10601/0/0/13935
+_Puffer_Puffer_Erzeuger Solar_Priorität Unten;/120/10601/0/0/13261
+_Puffer_Puffer_Erzeuger Solar_Puffer max;/120/10601/0/0/13014
+_Puffer_Puffer_Erzeuger Solar_Solarvorrang_Solarvorrang;/120/10601/0/0/12428
+_Puffer_Puffer_Erzeuger Solar_Solarvorrang_Beginn Solarvorrang;/120/10601/0/0/12429
+_Puffer_Puffer_Erzeuger Solar_Solarvorrang_Solarvorrang ändern ab;/120/10601/0/0/12430
+_Puffer_Puffer_Erzeuger Solar_Solarvorrang_Ende Solarvorrang;/120/10601/0/0/12431
+_Puffer_Puffer_Erzeuger Solar_Solarvorrang_Min. Außentemp. Solarvorrang;/120/10601/0/0/12432
+_Puffer_Puffer_Verbraucher_Puffer oben;/120/10601/0/0/13201
+_Puffer_Puffer_Verbraucher_Puffer aus;/120/10601/0/0/13251
+_Puffer_Puffer_Verbraucher_Solar Überschuss_ab Außentemperatur;/120/10601/0/0/12680
+_Puffer_Puffer_Verbraucher_Solar Überschuss_ab Puffertemperatur;/120/10601/0/0/13358
+_Puffer_Puffer_Warmwasserbereich_Warmwasser;/120/10601/0/0/13434
+_Puffer_Puffer_Warmwasserbereich_Warmwasser Aus Fühler;/120/10601/0/0/13932
+_Puffer_Puffer_Warmwasserbereich_Soll Temperatur;/120/10601/0/0/12293
+_Puffer_Puffer_Warmwasserbereich_Einschaltdifferenz;/120/10601/0/0/12133
+_Puffer_Puffer_Warmwasserbereich_Laden Taste;/120/10601/0/0/12134
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Schaltzustand;/120/10601/12235/0/1109
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Temperatur;/120/10601/12235/0/1110
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Montag_Absenktemperatur;/120/10601/12235/0/1111
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Montag_Zeitfenster 1;/120/10601/12235/0/1082
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Montag_Zeitfenster 2;/120/10601/12235/0/1083
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Montag_Zeitfenster 3;/120/10601/12235/0/1084
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Dienstag_Absenktemperatur;/120/10601/12235/0/1112
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Dienstag_Zeitfenster 1;/120/10601/12235/0/1086
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Dienstag_Zeitfenster 2;/120/10601/12235/0/1087
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Dienstag_Zeitfenster 3;/120/10601/12235/0/1088
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Mittwoch_Absenktemperatur;/120/10601/12235/0/1113
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Mittwoch_Zeitfenster 1;/120/10601/12235/0/1090
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Mittwoch_Zeitfenster 2;/120/10601/12235/0/1091
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Mittwoch_Zeitfenster 3;/120/10601/12235/0/1092
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Donnerstag_Absenktemperatur;/120/10601/12235/0/1114
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Donnerstag_Zeitfenster 1;/120/10601/12235/0/1094
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Donnerstag_Zeitfenster 2;/120/10601/12235/0/1095
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Donnerstag_Zeitfenster 3;/120/10601/12235/0/1096
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Freitag_Absenktemperatur;/120/10601/12235/0/1115
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Freitag_Zeitfenster 1;/120/10601/12235/0/1098
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Freitag_Zeitfenster 2;/120/10601/12235/0/1099
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Freitag_Zeitfenster 3;/120/10601/12235/0/1100
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Samstag_Absenktemperatur;/120/10601/12235/0/1116
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Samstag_Zeitfenster 1;/120/10601/12235/0/1102
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Samstag_Zeitfenster 2;/120/10601/12235/0/1103
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Samstag_Zeitfenster 3;/120/10601/12235/0/1104
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Sonntag_Absenktemperatur;/120/10601/12235/0/1117
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Sonntag_Zeitfenster 1;/120/10601/12235/0/1106
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Sonntag_Zeitfenster 2;/120/10601/12235/0/1107
+_Puffer_Puffer_Warmwasserbereich_Ladezeiten_Sonntag_Zeitfenster 3;/120/10601/12235/0/1108
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Schaltzustand;/120/10601/12175/0/1109
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Temperatur;/120/10601/12175/0/1110
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Montag_Absenktemperatur;/120/10601/12175/0/1111
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Montag_Zeitfenster 1;/120/10601/12175/0/1082
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Montag_Zeitfenster 2;/120/10601/12175/0/1083
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Montag_Zeitfenster 3;/120/10601/12175/0/1084
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Dienstag_Absenktemperatur;/120/10601/12175/0/1112
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Dienstag_Zeitfenster 1;/120/10601/12175/0/1086
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Dienstag_Zeitfenster 2;/120/10601/12175/0/1087
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Dienstag_Zeitfenster 3;/120/10601/12175/0/1088
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Mittwoch_Absenktemperatur;/120/10601/12175/0/1113
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Mittwoch_Zeitfenster 1;/120/10601/12175/0/1090
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Mittwoch_Zeitfenster 2;/120/10601/12175/0/1091
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Mittwoch_Zeitfenster 3;/120/10601/12175/0/1092
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Donnerstag_Absenktemperatur;/120/10601/12175/0/1114
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Donnerstag_Zeitfenster 1;/120/10601/12175/0/1094
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Donnerstag_Zeitfenster 2;/120/10601/12175/0/1095
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Donnerstag_Zeitfenster 3;/120/10601/12175/0/1096
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Freitag_Absenktemperatur;/120/10601/12175/0/1115
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Freitag_Zeitfenster 1;/120/10601/12175/0/1098
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Freitag_Zeitfenster 2;/120/10601/12175/0/1099
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Freitag_Zeitfenster 3;/120/10601/12175/0/1100
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Samstag_Absenktemperatur;/120/10601/12175/0/1116
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Samstag_Zeitfenster 1;/120/10601/12175/0/1102
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Samstag_Zeitfenster 2;/120/10601/12175/0/1103
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Samstag_Zeitfenster 3;/120/10601/12175/0/1104
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Sonntag_Absenktemperatur;/120/10601/12175/0/1117
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Sonntag_Zeitfenster 1;/120/10601/12175/0/1106
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Sonntag_Zeitfenster 2;/120/10601/12175/0/1107
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulationszeiten_Sonntag_Zeitfenster 3;/120/10601/12175/0/1108
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulation Laufzeit;/120/10601/0/0/12174
+_Puffer_Puffer_Warmwasserbereich_Zirkulation_Zirkulation Pause;/120/10601/0/0/12173
+_Erdg._Heizkreis_Ergänzung;/120/10101/0/0/19391
+_Erdg._Heizkreis_Heizzeiten_Schaltzustand;/120/10101/12113/0/1109
+_Erdg._Heizkreis_Heizzeiten_Temperatur;/120/10101/12113/0/1110
+_Erdg._Heizkreis_Heizzeiten_Montag_Absenktemperatur;/120/10101/12113/0/1111
+_Erdg._Heizkreis_Heizzeiten_Montag_Zeitfenster 1;/120/10101/12113/0/1082
+_Erdg._Heizkreis_Heizzeiten_Montag_Zeitfenster 2;/120/10101/12113/0/1083
+_Erdg._Heizkreis_Heizzeiten_Montag_Zeitfenster 3;/120/10101/12113/0/1084
+_Erdg._Heizkreis_Heizzeiten_Dienstag_Absenktemperatur;/120/10101/12113/0/1112
+_Erdg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 1;/120/10101/12113/0/1086
+_Erdg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 2;/120/10101/12113/0/1087
+_Erdg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 3;/120/10101/12113/0/1088
+_Erdg._Heizkreis_Heizzeiten_Mittwoch_Absenktemperatur;/120/10101/12113/0/1113
+_Erdg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 1;/120/10101/12113/0/1090
+_Erdg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 2;/120/10101/12113/0/1091
+_Erdg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 3;/120/10101/12113/0/1092
+_Erdg._Heizkreis_Heizzeiten_Donnerstag_Absenktemperatur;/120/10101/12113/0/1114
+_Erdg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 1;/120/10101/12113/0/1094
+_Erdg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 2;/120/10101/12113/0/1095
+_Erdg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 3;/120/10101/12113/0/1096
+_Erdg._Heizkreis_Heizzeiten_Freitag_Absenktemperatur;/120/10101/12113/0/1115
+_Erdg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 1;/120/10101/12113/0/1098
+_Erdg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 2;/120/10101/12113/0/1099
+_Erdg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 3;/120/10101/12113/0/1100
+_Erdg._Heizkreis_Heizzeiten_Samstag_Absenktemperatur;/120/10101/12113/0/1116
+_Erdg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 1;/120/10101/12113/0/1102
+_Erdg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 2;/120/10101/12113/0/1103
+_Erdg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 3;/120/10101/12113/0/1104
+_Erdg._Heizkreis_Heizzeiten_Sonntag_Absenktemperatur;/120/10101/12113/0/1117
+_Erdg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 1;/120/10101/12113/0/1106
+_Erdg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 2;/120/10101/12113/0/1107
+_Erdg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 3;/120/10101/12113/0/1108
+_Erdg._Heizkreis_Rückstellzeit f. 'Kommen'-Taste;/120/10101/0/0/13796
+_Erdg._Heizkreis_Vorlauf;/120/10101/0/0/12241
+_Erdg._Heizkreis_Heizkurve_Schieber Position;/120/10101/0/0/12240
+_Erdg._Heizkreis_Heizkurve_Vorlauf bei -10°C;/120/10101/0/0/12104
+_Erdg._Heizkreis_Heizkurve_Vorlauf bei +10°C;/120/10101/0/0/12103
+_Erdg._Heizkreis_Heizkurve_Vorlauf Absenkung;/120/10101/0/0/12107
+_Erdg._Heizkreis_Außentemperatur verzögert_Lag x;/120/10101/12095/0/1071
+_Erdg._Heizkreis_Außentemperatur verzögert_Lag Tf;/120/10101/12095/0/1074
+_Erdg._Heizkreis_Außentemperatur verzögert_Lag y;/120/10101/12095/0/1073
+_Erdg._Heizkreis_Heizgrenze für 'Heizen';/120/10101/0/0/14116
+_Erdg._Heizkreis_Heizgrenze für 'Absenken';/120/10101/0/0/12097
+_Erdg._Heizkreis_Freigabe Temperatur;/120/10101/0/0/12215
+_Erdg._Heizkreis_Heizkreispumpe;/120/10101/0/0/13922
+_Erdg._Heizkreis_Solar abschöpfen;/120/10101/0/0/12652
+_Erdg._Sonstiges_Heizen Taste;/120/10101/0/0/12125
+_Erdg._Sonstiges_Auto Taste;/120/10101/0/0/12126
+_Erdg._Sonstiges_Absenken Taste;/120/10101/0/0/12230
+_Erdg._Sonstiges_Ein/Aus Taste;/120/10101/0/0/12080
+_Erdg._Sonstiges_Kommen Taste;/120/10101/0/0/12218
+_Erdg._Sonstiges_Gehen Taste;/120/10101/0/0/12231
+_Erdg._Sonstiges_Urlaub Beginn;/120/10101/0/0/12232
+_Erdg._Sonstiges_Urlaub Ende;/120/10101/0/0/12239
+_Oberg._Heizkreis_Ergänzung;/120/10102/0/0/19391
+_Oberg._Heizkreis_Heizzeiten_Schaltzustand;/120/10102/12113/0/1109
+_Oberg._Heizkreis_Heizzeiten_Temperatur;/120/10102/12113/0/1110
+_Oberg._Heizkreis_Heizzeiten_Montag_Absenktemperatur;/120/10102/12113/0/1111
+_Oberg._Heizkreis_Heizzeiten_Montag_Zeitfenster 1;/120/10102/12113/0/1082
+_Oberg._Heizkreis_Heizzeiten_Montag_Zeitfenster 2;/120/10102/12113/0/1083
+_Oberg._Heizkreis_Heizzeiten_Montag_Zeitfenster 3;/120/10102/12113/0/1084
+_Oberg._Heizkreis_Heizzeiten_Dienstag_Absenktemperatur;/120/10102/12113/0/1112
+_Oberg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 1;/120/10102/12113/0/1086
+_Oberg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 2;/120/10102/12113/0/1087
+_Oberg._Heizkreis_Heizzeiten_Dienstag_Zeitfenster 3;/120/10102/12113/0/1088
+_Oberg._Heizkreis_Heizzeiten_Mittwoch_Absenktemperatur;/120/10102/12113/0/1113
+_Oberg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 1;/120/10102/12113/0/1090
+_Oberg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 2;/120/10102/12113/0/1091
+_Oberg._Heizkreis_Heizzeiten_Mittwoch_Zeitfenster 3;/120/10102/12113/0/1092
+_Oberg._Heizkreis_Heizzeiten_Donnerstag_Absenktemperatur;/120/10102/12113/0/1114
+_Oberg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 1;/120/10102/12113/0/1094
+_Oberg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 2;/120/10102/12113/0/1095
+_Oberg._Heizkreis_Heizzeiten_Donnerstag_Zeitfenster 3;/120/10102/12113/0/1096
+_Oberg._Heizkreis_Heizzeiten_Freitag_Absenktemperatur;/120/10102/12113/0/1115
+_Oberg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 1;/120/10102/12113/0/1098
+_Oberg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 2;/120/10102/12113/0/1099
+_Oberg._Heizkreis_Heizzeiten_Freitag_Zeitfenster 3;/120/10102/12113/0/1100
+_Oberg._Heizkreis_Heizzeiten_Samstag_Absenktemperatur;/120/10102/12113/0/1116
+_Oberg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 1;/120/10102/12113/0/1102
+_Oberg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 2;/120/10102/12113/0/1103
+_Oberg._Heizkreis_Heizzeiten_Samstag_Zeitfenster 3;/120/10102/12113/0/1104
+_Oberg._Heizkreis_Heizzeiten_Sonntag_Absenktemperatur;/120/10102/12113/0/1117
+_Oberg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 1;/120/10102/12113/0/1106
+_Oberg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 2;/120/10102/12113/0/1107
+_Oberg._Heizkreis_Heizzeiten_Sonntag_Zeitfenster 3;/120/10102/12113/0/1108
+_Oberg._Heizkreis_Rückstellzeit f. 'Kommen'-Taste;/120/10102/0/0/13796
+_Oberg._Heizkreis_Vorlauf;/120/10102/0/0/12241
+_Oberg._Heizkreis_Heizkurve_Schieber Position;/120/10102/0/0/12240
+_Oberg._Heizkreis_Heizkurve_Vorlauf bei -10°C;/120/10102/0/0/12104
+_Oberg._Heizkreis_Heizkurve_Vorlauf bei +10°C;/120/10102/0/0/12103
+_Oberg._Heizkreis_Heizkurve_Vorlauf Absenkung;/120/10102/0/0/12107
+_Oberg._Heizkreis_Außentemperatur verzögert_Lag x;/120/10102/12095/0/1071
+_Oberg._Heizkreis_Außentemperatur verzögert_Lag Tf;/120/10102/12095/0/1074
+_Oberg._Heizkreis_Außentemperatur verzögert_Lag y;/120/10102/12095/0/1073
+_Oberg._Heizkreis_Heizgrenze für 'Heizen';/120/10102/0/0/14116
+_Oberg._Heizkreis_Heizgrenze für 'Absenken';/120/10102/0/0/12097
+_Oberg._Heizkreis_Freigabe Temperatur;/120/10102/0/0/12215
+_Oberg._Heizkreis_Heizkreispumpe;/120/10102/0/0/13922
+_Oberg._Heizkreis_Solar abschöpfen;/120/10102/0/0/12652
+_Oberg._Sonstiges_Heizen Taste;/120/10102/0/0/12125
+_Oberg._Sonstiges_Auto Taste;/120/10102/0/0/12126
+_Oberg._Sonstiges_Absenken Taste;/120/10102/0/0/12230
+_Oberg._Sonstiges_Ein/Aus Taste;/120/10102/0/0/12080
+_Oberg._Sonstiges_Kommen Taste;/120/10102/0/0/12218
+_Oberg._Sonstiges_Gehen Taste;/120/10102/0/0/12231
+_Oberg._Sonstiges_Urlaub Beginn;/120/10102/0/0/12232
+_Oberg._Sonstiges_Urlaub Ende;/120/10102/0/0/12239
+_Kessel_Zählerstände_Volllaststunden;/40/10021/0/0/12153
+_Kessel_Zählerstände_Gesamtverbrauch;/40/10021/0/0/12016
+_Kessel_Zählerstände_Verbrauch seit Wartung;/40/10021/0/0/12014
+_Kessel_Zählerstände_Inhalt Pelletsbehälter;/40/10021/0/0/12011
+_Kessel_Zählerstände_Verbrauch seit Entaschung;/40/10021/0/0/12012
+_Kessel_Zählerstände_Verbrauch seit Aschebox leeren;/40/10021/0/0/12013
+_Kessel_Kessel_Einstellungen_Kesselfolge;/40/10021/0/0/12443
+_Kessel_Kessel_Kesseldruck;/40/10021/0/0/12180
+_Kessel_Kessel_Kessel_Kessel Soll;/40/10021/0/0/12001
+_Kessel_Kessel_Vorlauf_Angeforderte Leistung;/40/10021/0/0/12077
+_Kessel_Kessel_Kesselpumpe_Anforderung;/40/10021/0/11123/2001
+_Kessel_Kessel_Kesselpumpe_Ausgang;/40/10021/0/11123/2130
+_Kessel_Kessel_Rücklaufmischer;/40/10021/0/0/12999
+_Kessel_Kessel_Abgas_Emissionsmessung_Art der Messung;/40/10021/0/0/12116
+_Kessel_Kessel_Abgas_Emissionsmessung_Beginn der Messung;/40/10021/0/0/13267
+_Kessel_Kessel_Abgas_Emissionsmessung_Verriegelungsdauer;/40/10021/0/0/13268
+_Kessel_Kessel_Abgas_Emissionsmessung_Jetzt starten;/40/10021/0/0/13269
+_Kessel_Kessel_Abgas_Emissionsmessung_Messung deaktivieren;/40/10021/0/0/13277
+_Kessel_Kessel_Abgasgebläse;/40/10021/0/0/12165
+_Kessel_Kessel_Restsauerstoff;/40/10021/0/0/12164
+_Kessel_Kessel_Entaschung_Beginn Ruhezeit;/40/10021/0/0/12248
+_Kessel_Kessel_Entaschung_Dauer Ruhezeit;/40/10021/0/0/12249
+_Kessel_Kessel_Entaschung_Verbrauch seit Entaschung;/40/10021/0/0/12012
+_Kessel_Kessel_Entaschung_Verbrauch seit Aschebox leeren;/40/10021/0/0/12013
+_Kessel_Kessel_Entaschung_Aschebox leeren nach;/40/10021/0/0/12120
+_Kessel_Kessel_Entaschung_Verbrauch seit Wartung;/40/10021/0/0/12014
+_Kessel_Kessel_Pelletsbehälter_Pelletsbehälter auffüllen;/40/10021/0/0/12071
+_Kessel_Kessel_Pelletsbehälter_Inhalt Pelletsbehälter;/40/10021/0/0/12011
+_Kessel_Kessel_Pelletsbehälter_Saugzeitpunkt;/40/10021/0/0/12152
+_Kessel_Kessel_Pelletsbehälter_Saugturbine_Anforderung;/40/10021/0/11042/2001
+_Kessel_Sonstiges_Ein/Aus Taste;/40/10021/0/0/12080
+_Kessel_Sonstiges_Entaschentaste;/40/10021/0/0/12112
+_Lager_Zählerstände_Anzahl Saugvorgänge;/40/10211/0/0/13794
+_Lager_Zählerstände_Erfolgreiche Saugvorgänge;/40/10211/0/0/13795
+_Lager_Zählerstände_Aktueller Saugvorgang;/40/10211/0/0/13790
+_Lager_Zählerstände_Dauer des letzten Saugvorganges;/40/10211/0/0/13791
+_Lager_Zählerstände_Anzahl Spülvorgänge;/40/10211/0/0/13792
+_Lager_Zählerstände_Erfolgreiche Spülvorgänge;/40/10211/0/0/13793
+_Lager_Austragung_Umschalteinheit 8-fach;/40/10211/0/0/12877
+_Lager_Austragung_Sollposition;/40/10211/0/0/12874
+_Lager_Austragung_Spülposition ?;/40/10211/0/0/12876
+_Lager_Austragung_Istposition;/40/10211/0/0/12875
+_Lager_Austragung_Pos. ist Spülposition ?;/40/10211/0/0/12878
+_Lager_Austragung_Umschalteinheit;/40/10211/0/0/12136
+_Lager_Austragung_Soll Position;/40/10211/0/0/12145
+_Lager_Austragung_Anzahl Saugvorgänge;/40/10211/0/0/12147
+_Lager_Austragung_Umschalten ab;/40/10211/0/0/12148
+_Lager_Vorrat_Vorrat Warngrenze;/40/10211/0/0/12042
+_Lager_Sonstiges_Vorrat;/40/10211/0/0/12015
+_Lager_Sonstiges_Position 1;/40/10211/0/0/12262
+_Lager_Sonstiges_Position 2;/40/10211/0/0/12263
+_Lager_Sonstiges_Position 3;/40/10211/0/0/12264
+_Lager_Sonstiges_Position 4;/40/10211/0/0/12539
+_Lager_Sonstiges_Position 5;/40/10211/0/0/12879
+_Lager_Sonstiges_Position 6;/40/10211/0/0/12880
+_Lager_Sonstiges_Position 7;/40/10211/0/0/12881
+_Lager_Sonstiges_Position 8;/40/10211/0/0/12882
+_Lager_Sonstiges_Taste Vor;/40/10211/0/0/12883
+_Lager_Sonstiges_Taste Zurück;/40/10211/0/0/12884
+_Sys_Eingänge_Außentemperatur;/40/10241/0/0/12197
+_Sys_System_Außentemperatur;/40/10241/0/0/12197

@@ -1,0 +1,4 @@
+influxdb
+schedule
+click
+pandas==0.23.0
